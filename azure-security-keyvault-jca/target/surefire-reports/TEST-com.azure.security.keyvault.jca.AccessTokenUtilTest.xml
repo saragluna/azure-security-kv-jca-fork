@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.azure.security.keyvault.jca.AccessTokenUtilTest" time="0.002" tests="3" errors="0" skipped="3" failures="0">
+  <properties/>
+  <testcase name="testGetAuthorizationToken" classname="com.azure.security.keyvault.jca.AccessTokenUtilTest" time="0">
+    <skipped message="Environment variable [AZURE_KEYVAULT_CERTIFICATE_NAME] does not exist"/>
+  </testcase>
+  <testcase name="testGetCertificateChain" classname="com.azure.security.keyvault.jca.KeyVaultKeyManagerTest" time="0">
+    <skipped message="Environment variable [AZURE_KEYVAULT_CERTIFICATE_NAME] does not exist"/>
+  </testcase>
+  <testcase name="testGetAliases" classname="com.azure.security.keyvault.jca.KeyVaultClientTest" time="0">
+    <skipped message="Environment variable [AZURE_KEYVAULT_CERTIFICATE_NAME] does not exist"/>
+  </testcase>
+</testsuite>

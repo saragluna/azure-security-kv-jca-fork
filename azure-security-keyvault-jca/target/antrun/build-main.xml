@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="maven-antrun-" default="main">
+  <target name="main">
+    <copy file="/Users/xiada/Documents/Projects/temp/azure-security-keyvault-jca/pom.xml" tofile="/Users/xiada/Documents/Projects/temp/azure-security-keyvault-jca/target/azure-security-keyvault-jca-2.8.0-beta.1.pom" />
+  </target>
+</project>

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.azure.security.keyvault.jca.implementation.KeyVaultClientTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 2, Time elapsed: 0.625 s - in com.azure.security.keyvault.jca.implementation.KeyVaultClientTest
