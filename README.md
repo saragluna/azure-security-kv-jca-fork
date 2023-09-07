@@ -12,7 +12,7 @@ mvn clean package
 ```
 
 ## Sign Jar
-
+```bash
 jarsigner \
 -keystore NONE \
 -storetype AzureKeyVault \
@@ -27,6 +27,7 @@ jarsigner \
 -J'-Dazure.keyvault.tenant-id=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx' \
 -J'-Dazure.keyvault.client-id=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx' \
 -J'-Dazure.keyvault.client-secret=your-client-secret'
+```
 
 ## How to run the JarSigner programmatically
 
