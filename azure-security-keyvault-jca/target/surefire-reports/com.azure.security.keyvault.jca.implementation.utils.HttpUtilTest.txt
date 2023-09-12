@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.azure.security.keyvault.jca.implementation.utils.HttpUtilTest
--------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 2, Time elapsed: 0.003 s - in com.azure.security.keyvault.jca.implementation.utils.HttpUtilTest
